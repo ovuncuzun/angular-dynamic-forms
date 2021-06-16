@@ -1,0 +1,65 @@
+[
+    {
+        "ID": "FirstName",
+        "Label": "First Name",
+        "Type": "input",
+        "Value": "",
+        "Required": true
+    },
+    {
+        "ID": "LastName",
+        "Label": "Last Name",
+        "Type": "input",
+        "Value": "",
+        "Required": true
+    },
+    {
+        "ID": "Phone",
+        "Label": "Phone Number",
+        "Type": "input",
+        "Value": "",
+        "Required": true
+    },
+    {
+        "ID": "Email",
+        "Label": "Email",
+        "Type": "input",
+        "Value": "",
+        "Required": true
+    },
+    {
+        "ID": "Gender",
+        "Label": "Gender",
+        "Type": "radio",
+        "Value": "Male,Female",
+        "Required": true
+    },
+    {
+        "ID": "DOB",
+        "Label": "Date of Birth",
+        "Type": "date",
+        "Value": "",
+        "Required": true
+    },
+    {
+        "ID": "Address",
+        "Label": "Address",
+        "Type": "input",
+        "Value": "",
+        "Required": true
+    },
+    {
+        "ID": "City",
+        "Label": "City",
+        "Type": "select",
+        "Value": "Aydın,İzmir,İstanbul",
+        "Required": true
+    },
+    {
+        "ID": "PIN",
+        "Label": "Pin Code",
+        "Type": "input",
+        "Value": "",
+        "Required": false
+    }
+]
